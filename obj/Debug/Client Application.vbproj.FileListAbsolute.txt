@@ -1,0 +1,21 @@
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.vbprojAssemblyReference.cache
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client_Application.Resources.resources
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.vbproj.GenerateResource.cache
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\Client Application.exe.config
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\Client Application.exe
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\Client Application.pdb
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\Client Application.xml
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.exe
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.xml
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.pdb
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client_Application.Client_Management.resources
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\EntityFramework.dll
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\EntityFramework.xml
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\RoBo\Documents\Applications\Client Application\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\RoBo\Documents\Applications\Client Application\obj\Debug\Client Application.vbproj.CopyComplete
